@@ -1,0 +1,132 @@
+Variables with name 'X':
+X_1_MCd_0 = 1.0
+X_3_1p_1 = 1.0
+X_2_5_2 = 1.0
+X_4_4p_2 = 1.0
+X_5_5p_2 = 1.0
+X_1p_3p_1 = 1.0
+X_3p_MCd_1 = 1.0
+X_2p_MCd_3 = 1.0
+X_4p_MCd_2 = 1.0
+X_5p_4_2 = 1.0
+X_MC_1_0 = 1.0
+X_MC_3_1 = 1.0
+X_MC_2_2 = 1.0
+X_MC_2p_3 = 1.0
+Variables with name 't':
+t_1_0 = 625.0
+t_3_1 = 664.0
+t_2_2 = 840.0
+t_4_2 = 877.0
+t_5_2 = 845.0
+t_1p_1 = 688.0
+t_3p_1 = 694.0
+t_2p_3 = 930.0
+t_4p_2 = 922.0
+t_5p_2 = 875.0
+t_MC_0 = 620.0
+t_MC_1 = 660.0
+t_MC_2 = 837.0
+t_MC_3 = 927.0
+t_MCd_0 = 630.0
+t_MCd_1 = 698.0
+t_MCd_2 = 925.0
+t_MCd_3 = 933.0
+Variables with name 'W':
+W_3_s1 = 1.0
+W_2_s2 = 1.0
+W_4_s3 = 1.0
+W_5_s3 = 1.0
+Variables with name 'Dt':
+Dt_3_s1 = 664.0
+Dt_MCd_s1 = 698.0
+Dt_2_s2 = 840.0
+Dt_MCd_s2 = 933.0
+Dt_4_s3 = 877.0
+Dt_5_s3 = 845.0
+Dt_MCd_s3 = 925.0
+Variables with name 'wait':
+wait_at_client_s1_3 = 60.0
+wait_at_client_s2_2 = 60.0
+wait_at_client_s3_4 = 5.0
+wait_at_client_s3_5 = 55.0
+Variables with name 'Pt':
+Pt_3p_s1 = 694.0
+Pt_MC_s1 = 660.0
+Pt_2p_s2 = 930.0
+Pt_MC_s2 = 837.0
+Pt_4p_s3 = 922.0
+Pt_5p_s3 = 875.0
+Pt_MC_s3 = 837.0
+Variables with name 'D':
+D_3_s1_1 = 1.0
+D_MCd_s1_1 = 1.0
+D_2_s2_2 = 1.0
+D_MCd_s2_3 = 1.0
+D_4_s3_2 = 1.0
+D_5_s3_2 = 1.0
+D_MCd_s3_2 = 1.0
+Variables with name 'P':
+P_3p_s1_1 = 1.0
+P_MC_s1_1 = 1.0
+P_2p_s2_3 = 1.0
+P_MC_s2_2 = 1.0
+P_4p_s3_2 = 1.0
+P_5p_s3_2 = 1.0
+P_MC_s3_2 = 1.0
+Variables with name 'z':
+Variables with name 'y':
+y_1_0 = 1.0
+y_3_1 = 1.0
+y_1p_1 = 1.0
+y_3p_1 = 1.0
+y_2_2 = 1.0
+y_4_2 = 1.0
+y_5_2 = 1.0
+y_4p_2 = 1.0
+y_5p_2 = 1.0
+y_2p_3 = 1.0
+Variables with name 'predecessor':
+predecessor_0_1 = 1.0
+predecessor_0_2 = 1.0
+predecessor_0_3 = 1.0
+predecessor_1_2 = 1.0
+predecessor_1_3 = 1.0
+predecessor_2_3 = 1.0
+Variables with name 'o':
+o_3p_MCd_s1_1 = 1.0
+o_MC_3_s1_1 = 1.0
+o_MC_2_s2_2 = 1.0
+o_2p_MCd_s2_3 = 1.0
+o_2_5_s3_2 = 1.0
+o_4p_MCd_s3_2 = 1.0
+o_5p_4_s3_2 = 1.0
+o_MC_2_s3_2 = 1.0
+Variables with name 'dt':
+dt_1 = 630.0
+Variables with name 'pt':
+pt_1p = 660.0
+Variables with name 'd':
+d_1p_1 = 1.0
+Variables with name 'p':
+p_1_0 = 1.0
+Variables with name 'op':
+op_1_MCd_1_0 = 1.0
+op_3_1p_1_1 = 1.0
+op_MC_3_1_1 = 1.0
+Variables with name 'service':
+Variables with name 'use':
+use_car_0 = 1.0
+Variables with name 'start':
+start_car_travel_0 = 620.0
+Variables with name 'end':
+end_car_travel_0 = 933.0
+Variables with name 'car':
+car_travel_0 = 313.0
+Variables with name 'route':
+route_0_done_by_car_0 = 1.0
+route_1_done_by_car_0 = 1.0
+route_2_done_by_car_0 = 1.0
+route_3_done_by_car_0 = 1.0
+Variables with name 'cars':
+cars_used = 1.0
